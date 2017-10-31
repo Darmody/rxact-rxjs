@@ -45,7 +45,7 @@ const config = {
     }],
   },
   output: {
-    library: 'rxcat',
+    library: 'rxcat-rxjs',
     libraryTarget: 'umd',
   },
   plugins: [
